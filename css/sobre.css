@@ -1,0 +1,43 @@
+html,body{
+  padding: 0;
+  margin: 0;
+}
+
+
+main{
+  background-color:#575474;
+  height:1600px;
+}
+
+h1{
+  font-size:60px;
+   font-family:Comic Sans MS;
+   padding: 30px;
+   color: #ffffff;
+  
+}
+
+p{
+  font-size:40px;
+  height:30px;
+  font-family: Comic Sans MS;
+  color:#ffffff;
+  
+}
+#logo{
+  margin: auto;
+  border-radius: 50%;
+  border: solid black 2px;
+  }
+  section{
+    text-align:center;
+    padding: 20px;
+  }
+footer{
+  text-align: center;
+  font-family: Verdana;
+  background-color:gray;
+  padding:15%;
+  margin: 0;
+  
+}

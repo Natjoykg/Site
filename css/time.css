@@ -1,0 +1,42 @@
+html,body{
+  margin: 0;
+  padding:9;
+}
+
+main{
+   
+   background-color:#575474;
+   height: 1600px;
+  
+}
+
+h1{
+  height:40px;
+  text-align: center;
+  color:#ffffff;
+  
+}
+.time{
+  margin:20%;
+  height:60%;
+  border-radius:50%;
+}
+.card{
+  
+  border:solid gray 2px;
+  text-align: center;
+  padding:5%;
+  margin:3%;
+  display: flex;
+  
+ 
+  
+}
+footer{
+  text-align: center;
+  font-family: Verdana;
+  background-color:gray;
+  padding:30px;
+  margin: 0;
+  
+}

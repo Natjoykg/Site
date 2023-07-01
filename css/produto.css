@@ -1,0 +1,32 @@
+html,body{
+  padding: 0;
+  margin: 0;
+}
+main{
+background-color:#575474;
+  margin:auto;
+  padding:1%;
+  height: 1600px;
+  
+  
+}
+
+h2{
+ height:50px;
+ font-size:30px;
+ text-align: center;
+ font-family: Verdana Arial Sans-Serif;
+color:#ffffff;
+}
+footer{
+  
+  text-align: center;
+  font-family: Verdana;
+  background-color:gray;
+  padding:10%;
+  margin: 0;
+  
+ 
+ 
+  
+}

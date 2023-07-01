@@ -1,0 +1,38 @@
+html, body{
+  margin:0;
+  padding:0;
+  }
+  nav{
+    position: fixed;
+  }
+main{
+  background-color:#575474;
+  margin:auto;
+  padding:1%;
+  height: 1200px;
+  
+  
+  
+  
+  
+}
+h2{
+ height:15px;
+ font-size:20px;
+ text-align: center;
+ font-family: Verdana Arial Sans-Serif;
+color:#ffffff;
+}
+
+footer{
+  
+  text-align: center;
+  font-family: Verdana;
+  background-color:gray;
+  padding:15%;
+  margin: 0;
+  
+ 
+ 
+  
+}
